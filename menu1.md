@@ -11,7 +11,7 @@ In the practical session, we will get familiar with a dataset of electricity mar
 
 ## Practical exercise: Wind impacts in Spain
 We will start the practicum with a short tutorial on Julia.
-The exercise will be based on the paper by Petersen, Reguant, and Segura (2021). Reading the paper in advance is encouraged.
+The exercise will be based on the paper by [Petersen, Reguant, and Segura (2024)](https://doi.org/10.1016/j.eneco.2023.107200). Reading the paper in advance is encouraged.
 
 * **Exercise file**: [julia_tutorial.ipynb](/materials/day1/julia_tutorial.ipynb) [day1.ipynb](/materials/day1/day1.ipynb)
 
@@ -21,6 +21,8 @@ The exercise will be based on the paper by Petersen, Reguant, and Segura (2021).
 > Save the exercise Julia file (.ipynb) and the data CSV file in the same folder. Then, open the exercise Julia file from Jupyter Notebooks to start exploring.
 
 ## References and readings
+
+* (*) Petersen, C., Reguant, M. & Segura, L. (2024) Measuring the Impact of Wind Power and Intermittency. Energy Economics. [https://doi.org/10.1016/j.eneco.2023.107200](https://doi.org/10.1016/j.eneco.2023.107200)
 
 * Abrell, J., Kosch, M., & Rausch, S. (2019). Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain. Journal of Public Economics, 169, 172–202. [https://doi.org/10.1016/j.jpubeco.2018.11.007](https://doi.org/10.1016/j.jpubeco.2018.11.007)
 
@@ -36,4 +38,3 @@ The exercise will be based on the paper by Petersen, Reguant, and Segura (2021).
 
 * Novan, K. (2015). Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided. American Economic Journal: Economic Policy, 7(3), 291–326. [https://doi.org/10.1257/pol.20130268](https://doi.org/10.1257/pol.20130268)
 
-* Petersen, C., Reguant, M. & Segura, L. (2021) Measuring the Impact of Wind Power: Output- vs. Capacity-based Subsidies. [Work in progress](/materials/day1/Measuring_the_Impact_of_Wind_Power_WP.pdf)

@@ -1,12 +1,12 @@
 # Module 2: Supply side I
 
-In the second lecture, we will talk about how to model electricity markets using mathematical programming tools. 
+In the second module, we will talk about how to model electricity markets using mathematical programming tools. 
 
 In the practical session, we will get familiar with a dataset of electricity market hourly data from California, learn about how to simplify the data using clustering techniques, and set up an economic model of a simple electricity market.
 
 ## Lecture
 
-* **Slides**: [day2.pdf](/materials/day2/day2.pdf)
+* **Slides**: TBA
 
 ## Practical exercise: A model of the electricity sector
 

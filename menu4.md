@@ -6,7 +6,7 @@ In the practical session, we will incorporate demand considerations and retail t
 
 ## Lecture
 
-* **Slides**: [day4.pdf](/materials/day4/day4.pdf)
+* **Slides**: TBA
 * **Suplementary Slides**: [slides_rtp.pdf](/materials/day4/slides_rtp.pdf)
 
 ## Practical exercise: Dynamic pricing in retail

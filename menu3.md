@@ -1,12 +1,12 @@
 # Module 3: Supply side II
 
-In the third lecture, we will talk about environmental regulation and how it affects participants in the electricity market. 
+In the third module, we will talk about environmental regulation and how it affects participants in the electricity market. 
 
 In the practical session, we will continue to learn how to use JuMP to build electricity models. We will incorporate investment and environmental regulation into a model with a richer set of plants. We will also practice ways in which to save and loop over several simulations.
 
 ## Lecture
 
-* **Slides**: [day3.pdf](/materials/day3/day3.pdf)
+* **Slides**: TBA
 * **Supplementary Slides**: [slides_chile.pdf](/materials/day3/slides_chile.pdf)
 
 ## Practical exercise: Supply climate policies and leakage

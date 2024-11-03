@@ -5,7 +5,8 @@ The goal of the course is threefold:
 * Get familiar with how to use data and models of electricity markets. 
 * Get familiar with how machine learning tools can help with the above.
 
-<!-- \tableofcontents you can use \toc as well -->
+## Syllabus
+Find the syllabus [here](/materials/day0/syllabus_Energy_2024.pdf).
 
 ## Preliminaries
 

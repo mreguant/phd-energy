@@ -6,7 +6,8 @@ In the practical session, we will get familiar with a dataset of electricity mar
 
 ## Lecture
 
-* **Slides**: TBA
+* **Slides**: [day1.pdf](/materials/day1/day1.pdf)
+
 
 ## Practical exercise: Wind impacts in Spain
 We will start the practicum with a short tutorial on Julia.

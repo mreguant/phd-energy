@@ -1,12 +1,6 @@
-+++
-title = "Day 5"
-hascode = true
-date = Date(2021, 9, 10)
-+++
-
 # Day 5: Demand side II
 
-In the fifth lecture, we will talk about the potential uneven impacts of the energy transition, with a focus on the electricity sector.
+In the fifth module, we will talk about the potential uneven impacts of the energy transition, with a focus on the electricity sector.
 
 In the practical session, we will learn how to combine machine learning tools applied to smart meter data with Census data to estimate the heterogeneity impacts of energy policies. 
 

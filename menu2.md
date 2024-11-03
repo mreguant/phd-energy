@@ -1,4 +1,4 @@
-# Day 2: Supply side I
+# Module 2: Supply side I
 
 In the second lecture, we will talk about how to model electricity markets using mathematical programming tools. 
 

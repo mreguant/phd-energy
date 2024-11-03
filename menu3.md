@@ -1,4 +1,4 @@
-# Day 3: Supply side II
+# Module 3: Supply side II
 
 In the third lecture, we will talk about environmental regulation and how it affects participants in the electricity market. 
 

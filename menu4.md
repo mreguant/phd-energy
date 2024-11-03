@@ -1,6 +1,6 @@
 # Day 4: Demand side I
 
-In the fourth lecture, we will talk about how demand actions can contribute to the energy transition, via energy efficiency and demand response.
+In the fourth module, we will talk about how demand actions can contribute to the energy transition, via energy efficiency and demand response.
 
 In the practical session, we will incorporate demand considerations and retail tariffs to our model.
 

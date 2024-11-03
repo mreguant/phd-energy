@@ -1,9 +1,3 @@
-+++
-title = "Day 1"
-hascode = true
-date = Date(2021, 6, 9)
-+++
-
 # Day 1: Introduction
 
 In the first lecture, we will talk about the many changes that are occurring in electricity markets with an emphasis on the expansion of renewables with stronger climate policies and cheaper costs. 
@@ -23,7 +17,7 @@ The exercise will be based on the paper by Petersen, Reguant, and Segura (2021).
 * **Data file**: [data_spain.csv](/materials/day1/data_spain.csv)
 
 <!-- ## Homework -->
-> :exclamation: Save the exercise Julia file (.ipynb) and the data CSV file in the same folder. Then, open the exercise Julia file from Jupyter Notebooks to start exploring. Note that the .pdf file provides a snapshot of the exercise. It does not require any installation but it will not allow interactions.
+> Save the exercise Julia file (.ipynb) and the data CSV file in the same folder. Then, open the exercise Julia file from Jupyter Notebooks to start exploring.
 
 ## References and readings
 

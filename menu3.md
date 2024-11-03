@@ -1,9 +1,3 @@
-+++
-title = "Day 3"
-hascode = true
-date = Date(2021, 8, 9)
-+++
-
 # Day 3: Supply side II
 
 In the third lecture, we will talk about environmental regulation and how it affects participants in the electricity market. 
@@ -24,8 +18,7 @@ The exercise will be based on the paper by Reguant (2019), "The Efficiency and S
 * **Data file**: [data\_jaere\_clustered.csv](/materials/day2/data_jaere_clustered.csv), [data\_technology.csv](/materials/day2/data_technology.csv)
 
 <!-- ## Homework -->
-> :exclamation: Save the exercise Julia file (.ipynb) and the data zip file in the same folder. You need to unzip de data\_leakage folder. It should appear as a subfolder with the same name, "data\_leakage". It contains several .csv files. Then, open the exercise Julia file from Jupyter Notebooks to start exploring. 
-Note that the .pdf file provides a snapshot of the exercise. It does not require any installation but it will not allow interactions.
+> Save the exercise Julia file (.ipynb) and the data CSV file in the same folder. Then, open the exercise Julia file from Jupyter Notebooks to start exploring.
 
 ## References and readings
 

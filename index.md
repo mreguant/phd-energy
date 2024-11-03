@@ -41,8 +41,3 @@ In each **day page** you will find the necessary material:
 
 * A tutorial to learn JuMP (also referenced above) - [https://github.com/jump-dev/JuMPTutorials.jl](https://github.com/jump-dev/JuMPTutorials.jl)
 
-##
-
-With the support of:
-
-\fig{./LOGO_ERC-FLAG_EU_.jpeg}

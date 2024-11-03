@@ -1,9 +1,3 @@
-+++
-title = "Day 2"
-hascode = true
-date = Date(2021, 7, 9)
-+++
-
 # Day 2: Supply side I
 
 In the second lecture, we will talk about how to model electricity markets using mathematical programming tools. 
@@ -23,7 +17,7 @@ The exercise will be based on the paper by Reguant (2019), "The Efficiency and S
 * **Data file**: [data_jaere.csv](/materials/day2/data_jaere.csv), [data\_technology\_simple.csv](/materials/day2/data_technology_simple.csv)
 
 <!-- ## Homework -->
-> :exclamation: Save the exercise Julia file (.ipynb) and the data CSV file in the same folder. Then, open the exercise Julia file from Jupyter Notebooks to start exploring. Note that the .pdf file provides a snapshot of the exercise. It does not require any installation but it will not allow interactions.
+> Save the exercise Julia file (.ipynb) and the data CSV file in the same folder. Then, open the exercise Julia file from Jupyter Notebooks to start exploring.
 
 ## References and readings
 

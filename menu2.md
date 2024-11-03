@@ -25,8 +25,15 @@ The exercise will be based on the paper by Reguant (2019), "The Efficiency and S
 
 * Bushnell, J., Mansur, E., & Saravia, C. (2008). Vertical Arrangments, Market Structure, and Competition: An Analysis of Restructured US Electricity Markets. American Economic Review, 98(1), 237–266. [https://doi.org/10.1257/aer.98.1.237](https://doi.org/10.1257/aer.98.1.237)
 
-* Ito, K., & Reguant, M. (2016). Sequential markets, market power, and arbitrage. American Economic Review, 106(7), 1921–1957. [https://doi.org/10.1257/aer.20141529](https://doi.org/10.1257/aer.20141529)
+* (*) Butters, A., Dorsey, J., & Gowrisankaran, G. (2024). Soaking Up the Sun: Battery Investment, Renewable Energy, and Market Equilibrium. [Link](https://drive.google.com/file/d/1DxCw07HdrPKVTLveC-FV8LvaJd_-ABPy/view)
+
+* (*) Elliott, J. (2024). Investment, Emissions, and Reliability in Electricity Markets. [Link](https://jonathantelliott.com/files/electricity_investment.pdf)
+
+* Gowrisankaran, G., Langer, A. & Reguant, M. (2024). Energy Transitions in Regulated Markets. [Link](https://mreguant.github.io/papers/energy_transitions_regulated_markets.pdf)
+
+* (*) Gonzales, L., Ito, K., & Reguant, M. (2023). The Investment Effects of Market Integration: Evidence from Renewable Energy Expansion in Chile. Econometrica. [https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf](https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf)
+
+* (*) Ito, K., & Reguant, M. (2016). Sequential markets, market power, and arbitrage. American Economic Review, 106(7), 1921–1957. [https://doi.org/10.1257/aer.20141529](https://doi.org/10.1257/aer.20141529)
 
 * Kellogg, R., & Reguant, M. (2021). Energy and Environmental Markets, Industrial Organization, and Regulation, in preparation for Handbook of Industrial Organization, [working paper](/materials/day2/Handbook_IO_EEE.pdf)
 
-* Reguant, M. (2019). The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies. Journal of the Association of Environmental and Resource Economists, 6(S1), S129–S168. [https://doi.org/10.1086/701190](https://doi.org/10.1086/701190)

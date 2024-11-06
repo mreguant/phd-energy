@@ -6,7 +6,7 @@ In the practical session, we will get familiar with a dataset of electricity mar
 
 ## Lecture
 
-* **Slides**: TBA
+* **Slides**: [slideset2.pdf](/materials/day2/slideset2.pdf)
 
 ## Practical exercise: A model of the electricity sector
 

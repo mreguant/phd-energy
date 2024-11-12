@@ -22,6 +22,7 @@ In each **module page** you will find the necessary material:
 * [Module 3](menu3): Supply side II
 * [Module 4](menu4): Demand side I
 * [Module 5](menu5): Demand side II
+* [Bonus](bonus): Bonus materials
 
 ## Preliminaries
 

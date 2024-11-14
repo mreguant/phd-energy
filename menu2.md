@@ -8,6 +8,8 @@ In the practical session, we will get familiar with a dataset of electricity mar
 
 * **Slides**: [slideset2.pdf](/materials/day2/slideset2.pdf)
 * **Slides**: [slideset3.pdf](/materials/day2/slideset3.pdf)
+* **Slides**: [slideset4.pdf](/materials/day2/slideset4.pdf)
+* **Slides**: [Chile_Slides.pdf](/materials/day2/Chile_Slides.pdf)
 
 ## Practical exercise: A model of the electricity sector
 

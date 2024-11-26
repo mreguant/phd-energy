@@ -6,9 +6,9 @@ In the practical session, we will learn how to combine machine learning tools ap
 
 ## Lecture
 
-* **Slides**: TBA
+* **Slides**: [slideset7.pdf](/materials/day5/slideset7.pdf)
 
-* **Supplementary slides**: [slides_distributional.pdf](/materials/day5/slides_distributional.pdf),  [schools_bgse.pdf](/materials/day4/schools_bgse.pdf)
+* **Supplementary slides**: [slides_distributional.pdf](/materials/day5/slides_distributional.pdf),  [schools_bgse.pdf](/materials/day5/schools_bgse.pdf)
   
 ## Practical exercise: Project presentations
 
